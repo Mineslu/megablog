@@ -8,3 +8,7 @@ body {
     width: 60%;
     margin: 0 auto;
 }
+.poema{
+    font-style: italic;
+    color:orange;
+}
