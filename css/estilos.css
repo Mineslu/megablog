@@ -12,3 +12,8 @@ body {
     font-style: italic;
     color:orange;
 }
+header{
+    background: green;
+    color: white;
+    text-align: center;
+}
