@@ -8,3 +8,8 @@ body {
     width: 60%;
     margin: 0 auto;
 }
+header{
+    background: green;
+    color: white;
+    text-align: center;
+}
