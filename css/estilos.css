@@ -1,18 +1,19 @@
 body {
     text-align: right;
     font-family: Arial, Helvetica, sans-serif;
-    color:blue;
+    color: blue;
+    border: 10px solid purple;
 }
-.container{
+.container {
     border: 5px solid red;
     width: 60%;
     margin: 0 auto;
 }
-.poema{
+.poema {
     font-style: italic;
-    color:orange;
+    color: orange;
 }
-header{
+header {
     background: green;
     color: white;
     text-align: center;
