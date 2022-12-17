@@ -17,4 +17,5 @@ header {
     background: green;
     color: white;
     text-align: center;
+    border: 5px solid red;
 }
