@@ -2,7 +2,10 @@ body {
     text-align: right;
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
+<<<<<<< HEAD
     border: 10px solid purple;
+=======
+>>>>>>> footer
 }
 .container {
     border: 5px solid red;
@@ -18,4 +21,7 @@ header {
     color: white;
     text-align: center;
     border: 5px solid red;
+}
+.pie {
+    background: green;
 }
